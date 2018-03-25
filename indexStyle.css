@@ -1,3 +1,4 @@
+@charset "UTF-8";
 @import url("https://fonts.googleapis.com/css?family=Montserrat:200,300,400,700,800");
 body {
   margin: 0;
@@ -148,25 +149,25 @@ body {
   background-image: url(img/marseille/IMG_6831.jpg); }
 
 .item--5 {
-  background-image: url(https://images.unsplash.com/photo-1502210220257-b267d9c86214?ixlib=rb-0.3.5&s=a856ee8f49413731084c1d113d330bc4&auto=format&fit=crop&w=1350&q=80); }
+  background-image: url(img/vueSurLaReleve/IMG_2974.jpg); }
 
 .item--6 {
-  background-image: url(https://images.unsplash.com/photo-1490487135801-031cf13ab462?ixlib=rb-0.3.5&s=b424db189618b2b9dbdd222fca08e6b5&auto=format&fit=crop&w=1352&q=80); }
+  background-image: url(img/milanNaples/IMG_6373.jpg); }
 
 .item--7 {
-  background-image: url(https://images.unsplash.com/photo-1501569420805-e4dd535ec970?ixlib=rb-0.3.5&s=f9fc15799cbd406b806ea8e306381e43&auto=format&fit=crop&w=1350&q=80); }
+  background-image: url(img/danse/IMG_4755.jpg); }
 
 .item--8 {
-  background-image: url(https://images.unsplash.com/photo-1463277261818-d24c3cdbe40e?ixlib=rb-0.3.5&s=9a19eee02877074ccb33e9e669f10dab&auto=format&fit=crop&w=634&q=80); }
+  background-image: url(img/petitsCrimes/IMG_1338.jpg); }
 
 .item--9 {
-  background-image: url(https://images.unsplash.com/photo-1497033110244-bb22d252704e?ixlib=rb-0.3.5&s=0563070b66661f968073a5ea4f96af99&auto=format&fit=crop&w=1371&q=80); }
+  background-image: url(img/boston/IMG_1062.jpg); }
 
 .item--10 {
-  background-image: url(https://images.unsplash.com/photo-1514575619841-1a3d949d3277?ixlib=rb-0.3.5&s=cd492506d8101a9382bf1359ac955c75&auto=format&fit=crop&w=564&q=80); }
+  background-image: url(img/amalgame/IMG_2052.jpg); }
 
 .item--11 {
-  background-image: url(https://images.unsplash.com/photo-1502868032459-aa78309e3503?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a6cda7a50c043155f3c0a9b6960a9eff&auto=format&fit=crop&w=1350&q=80); }
+  background-image: url(img/paris/CaféNoir/IMG_9771.jpg); }
 
 .item--12 {
   background-image: url(https://images.unsplash.com/photo-1453814235491-3cfac3999928?ixlib=rb-0.3.5&s=528b061cef02f0c33c50f2b05e8b5619&auto=format&fit=crop&w=1350&q=80); }
