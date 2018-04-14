@@ -7,7 +7,6 @@ body {
   background-size: cover;
   font-family: 'Helvetica Neue', 'Montserrat', sans-serif;
   font-size: 100%;
-  zoom: 150%;
   color: white; }
 
 .grid {
@@ -170,10 +169,10 @@ body {
   background-image: url(img/paris/IMG_9771.jpg); }
 
 .item--12 {
-  background-image: url(https://images.unsplash.com/photo-1453814235491-3cfac3999928?ixlib=rb-0.3.5&s=528b061cef02f0c33c50f2b05e8b5619&auto=format&fit=crop&w=1350&q=80); }
+  background-image: url(img/petiteMort/IMG_7365.jpg); }
 
 .item--13 {
-  background-image: url(https://images.unsplash.com/photo-1495482432709-15807c8b3e2b?ixlib=rb-0.3.5&s=6d360685125b642b273028564997fbc3&auto=format&fit=crop&w=1352&q=80); }
+  background-image: url(img/waalde/IMG_6909.jpg); }
 
 .item--14 {
   background-image: url(https://images.unsplash.com/photo-1517696600874-1d19b7e42b21?ixlib=rb-0.3.5&s=94d7c303227a36ca61313291559a9626&auto=format&fit=crop&w=1950&q=80); }
