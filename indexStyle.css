@@ -135,6 +135,8 @@ body {
 
   .intro--text {
     font-size: 1.4rem; } }
+
+
 .item--vieuxPetrin {
   background-image: url(img/vieuxPetrin/IMG_6033-2.jpg); }
 
@@ -189,11 +191,11 @@ body {
 .item--sicile {
   background-image: url(img/sicile/IMG_0785.jpg); }
 
-.item--19 {
-  background-image: url(https://images.unsplash.com/photo-1508341421810-36b8fc06075b?ixlib=rb-0.3.5&s=40aa58c6e0450d4e2e4b7da8a440afe5&auto=format&fit=crop&w=2567&q=80); }
+.item--fanfares {
+  background-image: url(img/fanfares/IMG_2706.jpg); }
 
-.item--20 {
-  background-image: url(https://images.unsplash.com/photo-1503442421232-da6e4efd1d23?ixlib=rb-0.3.5&s=2a32e84e3e6d26670d3e87ac54edb998&auto=format&fit=crop&w=1343&q=80); }
+.item--chocThermique {
+  background-image: url(img/chocThermique/IMG_2193.jpg); }
 
 .item--21 {
   background-image: url(https://images.unsplash.com/photo-1505771582525-59a79c60af24?ixlib=rb-0.3.5&s=44d17c15b3bd53bc97a6ce7c53579649&auto=format&fit=crop&w=2689&q=80); }
