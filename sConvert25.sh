@@ -1,5 +1,5 @@
 a=0
-for pic in img/fanfares/*.jpg 
+for pic in img/grece2019/*.jpg 
 do
 	echo $pic
 	convert $pic -resize 25% "pic_$a.jpg"

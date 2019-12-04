@@ -197,9 +197,12 @@ body {
 .item--chocThermique {
   background-image: url(img/chocThermique/IMG_2193.jpg); }
 
-.item--21 {
-  background-image: url(https://images.unsplash.com/photo-1505771582525-59a79c60af24?ixlib=rb-0.3.5&s=44d17c15b3bd53bc97a6ce7c53579649&auto=format&fit=crop&w=2689&q=80); }
-
+.item--grece2019 {
+    background-image: url(img/grece2019/pic_3.jpg);}
+.item--istanbul {
+    background-image: url(img/istanbul/pic_9.jpg); }
+.item--autrices {
+    background-image: url(img/lesAutrices/pic_6.jpg); }
 .centering {
   display: block;
   width: 100%;
